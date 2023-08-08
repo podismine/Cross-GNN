@@ -1,1 +1,1 @@
-The code will be uploaded soon.
+Repo for Cross-GNN.
